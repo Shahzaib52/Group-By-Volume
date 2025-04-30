@@ -8,7 +8,7 @@ So, I pieced together a small script that groups objects by volume.
 
 **How To Use**
 
-1. Open the **"Group By Volume"** window by clicking **"Tools/FYG/Group By Volume"** and dock the window somewhere 
+1. After downloading and importing the package into your Unity project, open the **"Group By Volume"** window by clicking **"Tools/FYG/Group By Volume"** and dock the window somewhere 
 2. Select the game object that you want the smaller game objects to be grouped with
 3. Click **"Group Overlapping Objects"** in the **"Group By Volume"** window
 
